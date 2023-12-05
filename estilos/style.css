@@ -1,0 +1,160 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+
+  background: #ffffff;
+  border: 1px;
+  border-radius: 24px;
+  box-shadow: 0 0 10px rgba(209, 23, 23, 0.1);
+  color: grey;
+  height: 634.3px;
+  left: 483.08px;
+  margin: 50px auto;
+  padding: 20px;
+  text-align: center;
+  top: 197.44px;
+  width: 473.83px;
+}
+
+img {
+  height: 18px;
+  top: 263.87px;
+  left: 541.66px;
+  width: 130.17px;
+}
+
+.logo {
+  display: flex;
+  text-align: left;
+  padding-left: 30px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.titulo1 {
+  font-family: Noto Sans;
+  font-size: 18px;
+  font-weight: 600;
+  height: 50px;
+  left: 541.66px;
+  letter-spacing: -0.035em;
+  line-height: 24.5px;
+  list-style-type: none;
+  text-align: left;
+  top: 291.33px;
+  width: 318.88px;
+}
+
+.titulo2 {
+  font-family: Noto Sans;
+  font-size: 16px;
+  font-weight: 400;
+  height: 66px;
+  left: 541.66px;
+  letter-spacing: -0.035em;
+  line-height: 22px;
+  list-style-type: none;
+  text-align: left;
+  top: 355.83px;
+  width: 318.88px;
+}
+
+h5 {
+  font-family: Noto Sans;
+  font-size: 14px;
+  font-weight: 400;
+  height: 19px;
+  left: 639px;
+  letter-spacing: -0.035em;
+  line-height: 19px;
+  text-align: center;
+  top: 769.67px;
+  width: 162px;
+}
+
+h6 {
+  display: flex;
+  font-family: Noto Sans;
+  font-size: 14px;
+  font-weight: 400;
+  height: 19px;
+  left: 611px;
+  letter-spacing: -0.035em;
+  line-height: 19px;
+  top: 659.08px;
+  width: 218px;
+
+  color: grey;
+}
+
+input {
+  border: 1px;
+  border-radius: 8px;
+  color: grey;
+  height: 20px;
+  left: 541.66px;
+  margin-top: 8px;
+  padding: 10px;
+  top: 518.99px;
+  width: 315.48px;
+
+  font-family: Noto Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: -0.035em;
+  text-align: left;
+}
+
+.icon-input {
+  padding-left: 51px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+
+  height: 40px;
+}
+
+.icon-input img {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+button {
+  top: 589.5px;
+  margin-top: 8px;
+  left: 541.66px;
+  width: 335.47px;
+  height: 38px;
+  border-radius: 7px;
+  border: none;
+  color: #fff;
+  background: #2a75d8;
+}
+
+.redesSociales {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.redesSociales img {
+  width: 40px;
+  height: 40px;
+  margin: 0 5px;
+
+  border: 2px solid transparent;
+  transition: border 0.3s ease-in-out;
+}
+.redesSociales img:hover {
+  border-color: #3498db;
+}
